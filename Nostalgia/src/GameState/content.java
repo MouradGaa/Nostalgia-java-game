@@ -14,8 +14,8 @@ public class content{
     public static BufferedImage[][] bme_logo = load("/credit.gif",214,116) ;
 
     // audio
-    public static String menu_sound = "audio/switch.wav";
-    public static String bgMenu_sound = "audio/bgMusic.wav";
+    public static String menu_sound = "src/switch.wav";
+    public static String bgMenu_sound = "src/bgMusic.wav";
     public static String select_sound = "audio/select.wav" ;
     public static String play_sound = "audio/play_music.wav" ;
     public static String key_sound = "audio/key_pickup.wav" ;
